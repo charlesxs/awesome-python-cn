@@ -74,7 +74,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 管理包和依赖的工具。
 
-*   pip：Python 包和依赖关系管理工具。[官网](https://pip.pypa.io/)
+*   pip：Python 包和依赖关系管理工具。[官网](https://pip.pypa.io/) :white_check_mark:
 *   pip-tools：保证 Python 包依赖关系更新的一组工具。[官网](https://github.com/nvie/pip-tools)
 *   conda：跨平台，Python 二进制包管理工具。[官网](https://github.com/conda/conda/)
 *   Curdling：管理 Python 包的命令行工具。[官网](http://clarete.li/curdling/)
@@ -342,7 +342,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 使用HTTP的库。
 
-*   requests：人性化的HTTP请求库。[官网](http://docs.python-requests.org/en/latest/)
+*   requests：人性化的HTTP请求库。[官网](http://docs.python-requests.org/en/latest/) :white_check_mark:
 *   grequests：requests 库 + gevent ，用于异步 HTTP 请求.[官网](https://github.com/kennethreitz/grequests)
 *   httplib2：全面的 HTTP 客户端库。[官网](https://github.com/jcgregorio/httplib2)
 *   treq：类似 requests 的Python API 构建于 Twisted HTTP 客户端之上。[官网](https://github.com/twisted/treq)
@@ -421,7 +421,7 @@ Python实现的数据库。
 *   TurboGears：一个可以扩展为全栈解决方案的微型框架。[官网](http://www.turbogears.org/)
 *   [web.py](http://hao.jobbole.com/python-webpy/)：一个 Python 的 web 框架，既简单，又强大。[官网](http://webpy.org/)
 *   web2py：一个全栈 web 框架和平台，专注于简单易用。[官网](http://www.web2py.com/)
-*   [Tornado](http://hao.jobbole.com/tornado/)：一个web 框架和异步网络库。[官网](http://www.tornadoweb.org/en/latest/)
+*   [Tornado](http://hao.jobbole.com/tornado/)：一个web 框架和异步网络库。[官网](http://www.tornadoweb.org/en/latest/) :white_check_mark:
 
 ### 权限
 
@@ -507,7 +507,7 @@ Python实现的数据库。
 
 模板生成和词法解析的库和工具。
 
-*   [Jinja2](http://hao.jobbole.com/jinja2/)：一个现代的，对设计师友好的模板引擎。[官网](https://github.com/pallets/jinja)
+*   [Jinja2](http://hao.jobbole.com/jinja2/)：一个现代的，对设计师友好的模板引擎。[官网](https://github.com/pallets/jinja) :white_check_mark:
 *   Chameleon：一个 HTML/XML 模板引擎。 模仿了 ZPT（Zope Page Templates）, 进行了速度上的优化。[官网](https://chameleon.readthedocs.org/en/latest/)
 *   Genshi：Python 模板工具，用以生成 web 感知的结果。[官网](https://genshi.edgewall.org/)
 *   Mako：Python 平台的超高速轻量级模板。[官网](http://www.makotemplates.org/)
@@ -712,8 +712,8 @@ Python实现的数据库。
 
 用以进行并发和并行操作的库。
 
-*   multiprocessing：(Python 标准库) 基于进程的“线程”接口。[官网](https://docs.python.org/2/library/multiprocessing.html)
-*   threading：(Python 标准库)更高层的线程接口。[官网](https://docs.python.org/2/library/threading.html)
+*   multiprocessing：(Python 标准库) 基于进程的“线程”接口。[官网](https://docs.python.org/2/library/multiprocessing.html) :ballot_box_with_check:
+*   threading：(Python 标准库)更高层的线程接口。[官网](https://docs.python.org/2/library/threading.html) :ballot_box_with_check:
 *   eventlet：支持 WSGI 的异步框架。[官网](http://eventlet.net/)
 *   gevent：一个基于协程的 Python 网络库，使用[greenlet](https://github.com/python-greenlet/greenlet)。[官网](http://www.gevent.org/)
 *   Tomorrow：用于产生异步代码的神奇的装饰器语法实现。[官网](https://github.com/madisonmay/Tomorrow)
@@ -804,7 +804,7 @@ Python实现的数据库。
 
 用来生成和操作日志的库。
 
-*   logging：(Python 标准库) 为 Python 提供日志功能。[官网](https://docs.python.org/2/library/logging.html)
+*   logging：(Python 标准库) 为 Python 提供日志功能。[官网](https://docs.python.org/2/library/logging.html) :white_check_mark:
 *   logbook：Logging 库的替代品。[官网](http://pythonhosted.org/Logbook/)
 *   Eliot：为复杂的和分布式系统创建日志。[官网](https://eliot.readthedocs.org/en/latest/)
 *   Raven：Sentry的 Python 客户端。[官网](http://raven.readthedocs.org/en/latest/)
@@ -996,7 +996,7 @@ MapReduce 框架和库。
 
 用于 DevOps 的软件和库。
 
-*   Ansible：一个非常简单的 IT 自动化平台。[官网](https://github.com/ansible/ansible)
+*   Ansible：一个非常简单的 IT 自动化平台。[官网](https://github.com/ansible/ansible) :white_check_mark:
 *   SaltStack：基础设施自动化和管理系统。[官网](https://github.com/saltstack/salt)
 *   OpenStack：用于构建私有和公有云的开源软件。[官网](http://www.openstack.org/)
 *   Docker Compose：快速，分离的开发环境，使用 Docker。[官网](https://docs.docker.com/compose/)
@@ -1072,6 +1072,7 @@ MapReduce 框架和库。
 *   scapy：一个非常棒的操作数据包的库。[官网](https://github.com/secdev/scapy)
 *   wifi：一个 Python 库和命令行工具用来在 Linux 平台上操作WiFi。[官网](https://wifi.readthedocs.org/en/latest/)
 *   Pingo：Pingo 为类似Raspberry Pi，pcDuino， Intel Galileo等设备提供统一的API用以编程。[官网](http://www.pingo.io/)
+*   RPi.GPIO: Raspberry Pi python 开发必备 [官网](https://sourceforge.net/p/raspberry-gpio-python/)  :white_check_mark:
 
 ### 兼容性
 
